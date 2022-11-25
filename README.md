@@ -1,4 +1,3 @@
-# ScreenSimulator-SFML
 >Just a simulator for my Project ([<ins>Display on LCD through VGA Cable</ins>](https://drive.google.com/drive/folders/1-_RUN7aMtAW_MCv8avKm5oitbWRtyFvc?usp=sharing)) in C++ and SFML
 
 ### Project Highlights
